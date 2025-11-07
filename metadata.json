@@ -1,0 +1,5 @@
+{
+  "name": "My Pizza Shop",
+  "description": "An online ordering system for a local pizza shop. Customers can browse the menu (pizzas, burgers, drinks) and place orders. An admin view allows the shop owner to see and manage incoming orders.",
+  "requestFramePermissions": []
+}
